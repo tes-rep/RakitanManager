@@ -13,6 +13,7 @@ packages=(
     "adb"
     "httping"
     "jq"
+    "coreutils-base64"
 )
 
 # Fungsi untuk memeriksa dan menginstal paket
