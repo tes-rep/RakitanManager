@@ -30,6 +30,7 @@ Paket Yang Terkait
 
 * modemmanager
 * python3-pip
+* coreutils-base64
 * jq
 * adb
 * php
@@ -44,9 +45,10 @@ Installasi
 
 
 Menggunakan Terminal OpenWrt / TTYD / PuTTY
-```bash
+
 # Copy Script Di Bawah Dan Paste Di Terminal
-bash -c "$(wget -qO - 'https://raw.githubusercontent.com/rtaserver/RakitanManager/dev/install.sh')"
+ ```bash
+bash -c "$(wget -qO - 'https://raw.githubusercontent.com/tes-rep/RakitanManager/main/install.sh')"
 ```
 
 Features
