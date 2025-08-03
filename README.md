@@ -4,8 +4,8 @@
 </h1>
 
   <p align="center">
-	<a target="_blank" href="https://github.com/rtaserver/RakitanManager/tree/package/main">
-    <img src="https://img.shields.io/github/v/release/rtaserver/RakitanManager?label=Release%20App">
+	<a target="_blank" href="https://github.com/tes-rep/RakitanManager/tree/package/main">
+    <img src="https://img.shields.io/github/v/release/tes-rep/RakitanManager?label=Release%20App">
     </a>
   </p>
   
@@ -21,7 +21,7 @@ File Download
 ---
 
 
-* IPK [Download](https://github.com/rtaserver/RakitanManager/tree/package/main)
+* IPK [Download](https://github.com/tes-rep/RakitanManager/tree/package/main)
 * Auto Script [Disini](#installasi)
 
 
